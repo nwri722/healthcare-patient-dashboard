@@ -7,8 +7,6 @@ Interactive healthcare dashboard built with PostgreSQL and Tableau to analyze pa
 
 ## Interactive Dashboard
 
-## Interactive Dashboard
-
 🔗 **[View the Interactive Dashboard on Tableau Public](https://public.tableau.com/views/PatientProfileDiagnosisDashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)**
 
 ## Dashboard Highlights
